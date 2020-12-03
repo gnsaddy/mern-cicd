@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<h1>Testing MERN Stack</h1>
+			<h1>Testing MERN Stack, with AWS amplify</h1>
 		</div>
 	);
 }
